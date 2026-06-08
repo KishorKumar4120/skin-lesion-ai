@@ -4,6 +4,7 @@
 **WEB APP BADGES**
 
 🤗 Live Demo: https://huggingface.co/spaces/KishorKumar4120/skin-lesion-ai
+
 GitHub Repo: https://github.com/KishorKumar4120/skin-lesion-ai
 Python: 3.10+
 PyTorch: Latest
